@@ -31,5 +31,37 @@
 
   STL 파일 형식의 오류에서 "오버래핑, 홀이 있다." 는 꼭지점이 정확히 연결되지 않은 경우
 
-
   STL 파일 오류를 수정해주는 소프트웨어 : Mashlab, Netfabb Basic
+
+
+
+- PLY : Polygon File Format 으로 알려진 컴퓨터 파일 형식
+
+  색상 및 투명도, 표면 법선, 텍스처 좌표 및 데이터 신뢰 값을 포함하여 다양한 속성을 저장할 수 있다.
+
+  이 형식을 사용하면 다각형의 앞면과 뒷면에 대해 서로 다른 속성을 가질 수 있다.
+
+  파일 형식에는 두 가지 하위 형식이 있으며 하나는 쉽게 시작할 수있는 ASCII 표현이고 다른 하나는 압축 저장과 빠른 저장 및로드를위한 바이너리 버전이 있다.
+
+  PLY 형식은 이러한 요소에 부착 할 수있는 색상 및 법선 방향과 같은 속성과 함께 정점,면 및 기타 요소의 모음으로 객체를 설명한다.정확히 하나의 객체에 대한 설명을 포함한다.
+
+  참고 사이트
+
+  http://paulbourke.net/dataformats/ply/
+
+  영상
+
+  https://www.youtube.com/watch?v=kAqj5onPdFM&t=34s
+
+  https://www.youtube.com/watch?v=oCGxn_Yq-cM
+
+
+
+- OBJ (wavefront file format ): 
+
+
+
+3D파일에 대한 개념 및 정리 : https://yunzema.tistory.com/29
+
+Understanding 3D File Formats : https://www.youtube.com/watch?v=Gkjyi-6bl6Q
+
