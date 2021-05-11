@@ -16,4 +16,6 @@ process Categorical Variables
 https://www.kaggle.com/alexisbcook/categorical-variables  
 cross-validation
 https://www.kaggle.com/alexisbcook/cross-validation 
+use pipelines
+https://www.kaggle.com/alexisbcook/pipelines  
 
