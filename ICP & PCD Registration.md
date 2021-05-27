@@ -29,7 +29,6 @@ Basic Alignment Problem
 Simplified Correspondences
 
 - reordering point clouds X, Y given correspondences C using an index N
-  $$
   
-  $$
-  
+  ![This is the rendered form of the equation. You can not edit this directly. Right click will give you the option to save the image, and in most browsers you can drag the image onto your desktop or another program.](https://latex.codecogs.com/gif.latex?%5Cbar%7Bx%7D_%7Bn%7D%20%3D%20Rx_%7Bn%7D%20&plus;%20t)
+
