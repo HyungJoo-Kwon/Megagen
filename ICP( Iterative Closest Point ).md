@@ -20,7 +20,7 @@ Registration of 3D data points
 
 Basic Alignment Problem
 
-- Y = {$y_{1}$ , ..., yi}, X = {x1, ..., xj} with correspondences C = {(i, j)}
+- Y = {$ y_{1} $ , ..., yi}, X = {x1, ..., xj} with correspondences C = {(i, j)}
 
 - Translation t and rotation R that minimize the sum of the squared errors
 
