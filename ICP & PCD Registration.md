@@ -24,7 +24,7 @@ Basic Alignment Problem
 
 - Translation t and rotation R that minimize the sum of the squared errors
 
-
+![This is the rendered form of the equation. You can not edit this directly. Right click will give you the option to save the image, and in most browsers you can drag the image onto your desktop or another program.](https://latex.codecogs.com/gif.latex?%5Csum_%7B%28i%2Cj%5C%29%20%5Cepsilon%20C%7D%5E%7B%7D%5Cleft%20%5C%7C%20y_%7Bi%7D%20-%20Rx_%7Bj%7D%20-t%20%5Cright%20%5C%7C%5E%7B2%7D%20%5Crightarrow%20min)
 
 Simplified Correspondences
 
@@ -32,3 +32,12 @@ Simplified Correspondences
   
   ![This is the rendered form of the equation. You can not edit this directly. Right click will give you the option to save the image, and in most browsers you can drag the image onto your desktop or another program.](https://latex.codecogs.com/gif.latex?%5Cbar%7Bx%7D_%7Bn%7D%20%3D%20Rx_%7Bn%7D%20&plus;%20t)
 
+
+
+
+
+SVD - Based Alignment
+
+![](./images/icp.PNG)
+
+translate and rotate points : ![This is the rendered form of the equation. You can not edit this directly. Right click will give you the option to save the image, and in most browsers you can drag the image onto your desktop or another program.](https://latex.codecogs.com/gif.latex?%5Cbar%7Bx%7D_%7Bn%7D%20%3D%20Rx_%7Bn%7D%20&plus;%20t)      n = 1, ..., N
