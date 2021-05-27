@@ -20,9 +20,7 @@ Registration of 3D data points
 
 Basic Alignment Problem
 
-- Y = {
-$$ y_{1} $$
-, ..., yi}, X = {x1, ..., xj} with correspondences C = {(i, j)}
+- Y = {![This is the rendered form of the equation. You can not edit this directly. Right click will give you the option to save the image, and in most browsers you can drag the image onto your desktop or another program.](https://latex.codecogs.com/gif.latex?y_%7B1%7D), ..., ![This is the rendered form of the equation. You can not edit this directly. Right click will give you the option to save the image, and in most browsers you can drag the image onto your desktop or another program.](https://latex.codecogs.com/gif.latex?y_%7Bi%7D)}, X = {![This is the rendered form of the equation. You can not edit this directly. Right click will give you the option to save the image, and in most browsers you can drag the image onto your desktop or another program.](https://latex.codecogs.com/gif.latex?x_%7B1%7D), ..., ![This is the rendered form of the equation. You can not edit this directly. Right click will give you the option to save the image, and in most browsers you can drag the image onto your desktop or another program.](https://latex.codecogs.com/gif.latex?x_%7Bj%7D)} with correspondences C = {(i, j)}
 
 - Translation t and rotation R that minimize the sum of the squared errors
 
