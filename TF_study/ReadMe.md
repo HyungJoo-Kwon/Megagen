@@ -4,10 +4,7 @@ https://github.com/deeplearningzerotoall/TensorFlow
 
 https://www.edwith.org/pnu-deeplearning
 
-open3d
-
-
-
+http://www.kocw.net/home/search/kemView.do?kemId=1352211&ar=relateCourse
   
   
 process Missing Values
